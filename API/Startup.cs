@@ -40,7 +40,7 @@ namespace API
                     {
                         Name = "Mark Smith",
                         Email = "mark.smith@hyperoceanic.com",
-                        Url = new Uri("https://github.com/hyperoceanic/indies/wiki")
+                        Url = new Uri("https://github.com/hyperoceanic/indies/")
                     }
                 });
 
