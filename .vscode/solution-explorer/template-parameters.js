@@ -1,3 +1,4 @@
+
 var path = require("path");
 
 module.exports = function(filename, projectPath, folderPath) {
@@ -14,4 +15,3 @@ module.exports = function(filename, projectPath, folderPath) {
         namespace: namespace,
         name: path.basename(filename, path.extname(filename))
     }
-};

@@ -1,3 +1,4 @@
+
 using System;
 
 namespace {{namespace}}
@@ -6,3 +7,4 @@ namespace {{namespace}}
     {
     }
 }
+
